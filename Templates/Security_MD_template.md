@@ -1,6 +1,6 @@
 # **Reporting a Security Vulnerability or Incident**
 
-Please do not report security vulnerabilities or security incidents via public channels (such as GitHub Issues or Pull Requests, GitLab Merge Requests). To ensure coordinated disclosure, submit your findings via email to: `<!-- security@project.com -->`
+Please do not report security vulnerabilities or security incidents via public channels (such as GitHub Issues or Pull Requests, GitLab Merge Requests). To ensure coordinated disclosure, submit your findings via email to: security@resf.org.
 
 ## **Submission Guidelines**
 
@@ -17,7 +17,7 @@ To help us triage and resolve the issue efficiently, please include the followin
 
 ## **Response Timeline**
 
-We aim to provide an initial acknowledgement of your report within `<!-- suggested: 1 day -->` . 
+We aim to provide an initial acknowledgement of your report within 1 day. 
 
 Our goal is to assess the report, coordinate fix and disclosure as quickly as possible. All confirmed security vulnerabilities and incidents will be addressed according to severity level and impact on the project.
 
@@ -25,8 +25,8 @@ Our goal is to assess the report, coordinate fix and disclosure as quickly as po
 
 Direct all security questions and vulnerability reports to:
 
-- **Email**: `<!-- security@project.com -->`  
-- `<!-- optional -->` **GPG key ID**: 
+- **Email**: security@resf.org
+- **GPG key ID**: F4C0847D7089F5B9B827E66F327541AF5CE5F44B
 
 ## **Security Policy**
 
@@ -34,12 +34,9 @@ Direct all security questions and vulnerability reports to:
 
 ## **Supported Versions**
 
-We regularly perform patch releases for the supported latest version `<!-- Link to the latest version/build location/latest tag>`, which contains fixes for relevant security vulnerabilities and important bugs. Prior releases might receive critical security fixes on a best-effort basis. However, we cannot guarantee that security fixes will get back-ported to these unsupported versions, unless stated otherwise in our support  matrix \<\!-- Link/text to the actual support matrix\>
+We regularly perform patch releases for the supported latest version `<!-- Link to the latest version/build location/latest tag>`, which contains fixes for relevant security vulnerabilities and important bugs. Prior releases might receive critical security fixes on a best-effort basis. However, we cannot guarantee that security fixes will get back-ported to these unsupported versions.
 
 ## **EU Cyber Resilience Act — Open Source Steward Statement**
 
-This project is stewarded by **Red Hat, Inc.**, an open source software steward as defined in Article 3(14) of the [EU Cyber Resilience Act (Regulation 2024/2847)](https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng).   
-Contact: cra-steward@redhat.com
-
-Refer to [Red Hat's security practices and vulnerability management policy](https://access.redhat.com/security/) for detailed information.
-
+This project is stewarded by the Rocky Enterprise Software Foundation, an open source software steward as defined in Article 3(14) of the [EU Cyber Resilience Act (Regulation 2024/2847)](https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng).   
+Contact: cra-steward@resf.org
